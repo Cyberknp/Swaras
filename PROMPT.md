@@ -1,4 +1,4 @@
-1. #Frontend UI development prompt
+1. Frontend UI development prompt
 
 PROJECT: Swaras — ML-Powered Indian Classical Music Web App
 STACK: React + TypeScript + Tailwind CSS (Vite) | Single-Page Application
